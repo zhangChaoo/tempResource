@@ -5,3 +5,6 @@
 <script>
 	alert("haha");
 </script>
+<script>
+	alert("hehe");
+</script>
